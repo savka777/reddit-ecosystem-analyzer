@@ -50,7 +50,7 @@ reddit-trend-analysis/
 └── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
