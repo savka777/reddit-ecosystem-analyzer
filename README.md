@@ -196,6 +196,6 @@ This project is licensed under the MIT License
 
 ## Issues & Support
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/savka777/reddit-ecosystem-analyzerissues)
+Found a bug or have a suggestion? [Open an issue](https://github.com/savka777/reddit-ecosystem-analyzer/issues)
 
 ---
