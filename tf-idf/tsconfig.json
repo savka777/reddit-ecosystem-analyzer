@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/ForceGraph.js", "app/components/ForceGraph3D.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/ForceGraph.js", "app/components/ForceGraph3D.js", "app/components/problemsPanel.jsx"],
   "exclude": ["node_modules"]
 }

@@ -1,0 +1,2606 @@
+{
+  "metadata": {
+    "analysis_date": "2025-07-25T12:40:25.468231",
+    "total_posts": 292,
+    "total_themes": 10,
+    "tfidf_features": 800
+  },
+  "themes": [
+    {
+      "theme_id": 7,
+      "theme_name": "Theme 8: for extension chrome",
+      "top_words": [
+        [
+          "for",
+          0.1014577983830221
+        ],
+        [
+          "extension",
+          0.1006485394966124
+        ],
+        [
+          "chrome",
+          0.0927861720541954
+        ],
+        [
+          "or",
+          0.07625609392673098
+        ],
+        [
+          "style",
+          0.07297191874260973
+        ],
+        [
+          "this",
+          0.07121529969538037
+        ],
+        [
+          "tab",
+          0.06598991270440761
+        ],
+        [
+          "an",
+          0.06565683023573834
+        ],
+        [
+          "text",
+          0.06389876734264235
+        ],
+        [
+          "idea",
+          0.062264672775594075
+        ]
+      ],
+      "post_count": 16,
+      "avg_score": 315.5625,
+      "avg_comments": 42.25,
+      "total_engagement": 5049,
+      "sample_titles": [
+        "Created a Chrome extension to practice typing on any website",
+        "I Built a Pornstar Analytics Platform",
+        "I built a robot to shoot coffee at my face if I get distracted while working."
+      ]
+    },
+    {
+      "theme_id": 0,
+      "theme_name": "Theme 1: habit my for",
+      "top_words": [
+        [
+          "habit",
+          0.09864321258847789
+        ],
+        [
+          "my",
+          0.09519541519711601
+        ],
+        [
+          "for",
+          0.08988038815567988
+        ],
+        [
+          "code",
+          0.0836187190722318
+        ],
+        [
+          "of",
+          0.07712701842159082
+        ],
+        [
+          "this",
+          0.06765814222513805
+        ],
+        [
+          "on",
+          0.06716088469629382
+        ],
+        [
+          "in",
+          0.06293099591943856
+        ],
+        [
+          "your",
+          0.05958455609258837
+        ],
+        [
+          "is",
+          0.058267180324926095
+        ]
+      ],
+      "post_count": 22,
+      "avg_score": 282.8636363636364,
+      "avg_comments": 59.22727272727273,
+      "total_engagement": 6223,
+      "sample_titles": [
+        "I made tinder but it’s only pictures of my wife and I can only swipe right",
+        "I'm full of embarrassment. Please, remember to test you software.",
+        "MY augmented reality project"
+      ]
+    },
+    {
+      "theme_id": 6,
+      "theme_name": "Theme 7: we is this",
+      "top_words": [
+        [
+          "we",
+          0.12536057749518673
+        ],
+        [
+          "is",
+          0.09170422897300243
+        ],
+        [
+          "this",
+          0.0913335921493609
+        ],
+        [
+          "of",
+          0.08219963693219877
+        ],
+        [
+          "for",
+          0.07414004403253872
+        ],
+        [
+          "that",
+          0.07277834698114412
+        ],
+        [
+          "on",
+          0.07015181679268494
+        ],
+        [
+          "source",
+          0.06771859903966754
+        ],
+        [
+          "as",
+          0.06068643566624806
+        ],
+        [
+          "open source",
+          0.05991714692045789
+        ]
+      ],
+      "post_count": 28,
+      "avg_score": 230.03571428571428,
+      "avg_comments": 39.07142857142857,
+      "total_engagement": 6441,
+      "sample_titles": [
+        "Built a Fake DM creation tool (went viral on X and got Featured on TechCrunch)",
+        "Using AI to detect and mute commercials while watching TV.",
+        "I built a clip-on AI assistant that makes any glasses smart (open-source)"
+      ]
+    },
+    {
+      "theme_id": 4,
+      "theme_name": "Theme 5: of in that",
+      "top_words": [
+        [
+          "of",
+          0.118998828642134
+        ],
+        [
+          "in",
+          0.09256638894081258
+        ],
+        [
+          "that",
+          0.0919182683309906
+        ],
+        [
+          "for",
+          0.09151300362648615
+        ],
+        [
+          "but",
+          0.09075768946035687
+        ],
+        [
+          "this",
+          0.08738649045885223
+        ],
+        [
+          "my",
+          0.08290629247703704
+        ],
+        [
+          "on",
+          0.07477410926626779
+        ],
+        [
+          "with",
+          0.07185291395204385
+        ],
+        [
+          "if",
+          0.06509006318895653
+        ]
+      ],
+      "post_count": 61,
+      "avg_score": 218.0983606557377,
+      "avg_comments": 55.73770491803279,
+      "total_engagement": 13304,
+      "sample_titles": [
+        "My App surpassed $100k in revenue",
+        "I've launched 37 products in 5 years and not doing that again",
+        "my first app reached 500 users and i'm so happy"
+      ]
+    },
+    {
+      "theme_id": 1,
+      "theme_name": "Theme 2: is your for",
+      "top_words": [
+        [
+          "is",
+          0.09745241262853724
+        ],
+        [
+          "your",
+          0.08628500751350157
+        ],
+        [
+          "for",
+          0.07915208980946274
+        ],
+        [
+          "this",
+          0.0732404514315447
+        ],
+        [
+          "that",
+          0.07198648437767756
+        ],
+        [
+          "on",
+          0.06894044330638233
+        ],
+        [
+          "in",
+          0.06542190311933656
+        ],
+        [
+          "can",
+          0.06344755727372983
+        ],
+        [
+          "of",
+          0.06300814423432549
+        ],
+        [
+          "or",
+          0.060410997831790325
+        ]
+      ],
+      "post_count": 67,
+      "avg_score": 199.7910447761194,
+      "avg_comments": 55.19402985074627,
+      "total_engagement": 13386,
+      "sample_titles": [
+        "I made 3D bust maker: immortalize your special moments. Ready for 3D printing",
+        "I built an infinite pixel art canvas. People have drawn 416 million individual pixels on it.",
+        "My girlfriend made this app to take my stress away."
+      ]
+    },
+    {
+      "theme_id": 3,
+      "theme_name": "Theme 4: my first congrats",
+      "top_words": [
+        [
+          "my",
+          0.11009886112678878
+        ],
+        [
+          "first",
+          0.08138318408824984
+        ],
+        [
+          "congrats",
+          0.06549668176876206
+        ],
+        [
+          "for",
+          0.0634017153747492
+        ],
+        [
+          "keep",
+          0.059250304865721894
+        ],
+        [
+          "on",
+          0.05904152383831895
+        ],
+        [
+          "in",
+          0.058801300208977926
+        ],
+        [
+          "my first",
+          0.05798872103449477
+        ],
+        [
+          "that",
+          0.057756488859907786
+        ],
+        [
+          "congratulations",
+          0.05646154305321777
+        ]
+      ],
+      "post_count": 44,
+      "avg_score": 141.61363636363637,
+      "avg_comments": 43.79545454545455,
+      "total_engagement": 6231,
+      "sample_titles": [
+        "My first AI startup, born in the /vue-tutorial folder, now ~15 new users per day",
+        "I built a tool that forces you to scream \"I'm a loser\" to unlock social media",
+        "Just got my first paying user today!"
+      ]
+    },
+    {
+      "theme_id": 2,
+      "theme_name": "Theme 3: reddit free for",
+      "top_words": [
+        [
+          "reddit",
+          0.1428982668461262
+        ],
+        [
+          "free",
+          0.11180660318247747
+        ],
+        [
+          "for",
+          0.08134161542132703
+        ],
+        [
+          "this",
+          0.07855023088672934
+        ],
+        [
+          "on",
+          0.07581541601507932
+        ],
+        [
+          "or",
+          0.06915416739710008
+        ],
+        [
+          "try",
+          0.06792480135581368
+        ],
+        [
+          "from",
+          0.06743808371604107
+        ],
+        [
+          "try it",
+          0.06064378042951746
+        ],
+        [
+          "of",
+          0.05901007212612729
+        ]
+      ],
+      "post_count": 10,
+      "avg_score": 139.7,
+      "avg_comments": 29.4,
+      "total_engagement": 1397,
+      "sample_titles": [
+        "Built a DEFCON-style dashboard that tracks Pentagon pizza shop activity. It went viral.",
+        "My side project went from 27 to 4,200 users overnight, still trying to figure out how.",
+        "I built a tool that finds better reddit leads than anything else"
+      ]
+    },
+    {
+      "theme_id": 5,
+      "theme_name": "Theme 6: me know let me know know what you",
+      "top_words": [
+        [
+          "me know",
+          0.09892158418673716
+        ],
+        [
+          "let me know",
+          0.09892158418673716
+        ],
+        [
+          "know what you",
+          0.09773632491606077
+        ],
+        [
+          "me know what",
+          0.09260044649208488
+        ],
+        [
+          "let me",
+          0.09100646227346534
+        ],
+        [
+          "out",
+          0.0904175852770393
+        ],
+        [
+          "that",
+          0.0902515987337473
+        ],
+        [
+          "know",
+          0.09003584433709427
+        ],
+        [
+          "what",
+          0.08949490341080205
+        ],
+        [
+          "for",
+          0.08865285902987095
+        ]
+      ],
+      "post_count": 11,
+      "avg_score": 124.9090909090909,
+      "avg_comments": 30.0,
+      "total_engagement": 1374,
+      "sample_titles": [
+        "I made an simple all-in-one online resume builder to create your resume and for free (it even has AI)",
+        "I built the first job board dedicated to $100k+ remote jobs",
+        "I built a simple recipe finder"
+      ]
+    },
+    {
+      "theme_id": 9,
+      "theme_name": "Theme 10: your product ll",
+      "top_words": [
+        [
+          "your",
+          0.10791664263860412
+        ],
+        [
+          "product",
+          0.09471077933493151
+        ],
+        [
+          "ll",
+          0.0843052696089969
+        ],
+        [
+          "feedback",
+          0.0802464419057965
+        ],
+        [
+          "for",
+          0.07226727957588919
+        ],
+        [
+          "projects",
+          0.06974688825219579
+        ],
+        [
+          "or",
+          0.06859908125795408
+        ],
+        [
+          "free",
+          0.06833178764230848
+        ],
+        [
+          "give",
+          0.06780324792468774
+        ],
+        [
+          "below",
+          0.06762690506138261
+        ]
+      ],
+      "post_count": 12,
+      "avg_score": 97.66666666666667,
+      "avg_comments": 148.66666666666666,
+      "total_engagement": 1172,
+      "sample_titles": [
+        "This sub used to be cool. Now it's just like r/SaaS",
+        "I've developed a truly unique Pomodoro timer.",
+        "Share what you’re working on, I’ll be your first customer or user"
+      ]
+    },
+    {
+      "theme_id": 8,
+      "theme_name": "Theme 9: what are you what are are you",
+      "top_words": [
+        [
+          "what are you",
+          0.12008764642413952
+        ],
+        [
+          "what are",
+          0.11570552325415906
+        ],
+        [
+          "are you",
+          0.1093409260327229
+        ],
+        [
+          "building",
+          0.10323946038707545
+        ],
+        [
+          "what",
+          0.10242999305640539
+        ],
+        [
+          "on",
+          0.10013805812027293
+        ],
+        [
+          "are",
+          0.10006939170338099
+        ],
+        [
+          "your",
+          0.09681165426382317
+        ],
+        [
+          "ai",
+          0.09146437657079311
+        ],
+        [
+          "are you on",
+          0.07546409574180855
+        ]
+      ],
+      "post_count": 21,
+      "avg_score": 63.04761904761905,
+      "avg_comments": 134.04761904761904,
+      "total_engagement": 1324,
+      "sample_titles": [
+        "I  made my first dollar with my app",
+        "Pitch your startup in 3 words.",
+        "What side project you are working for now drop it in comments"
+      ]
+    }
+  ],
+  "posts_with_themes": [
+    {
+      "id": "1m35078",
+      "title": "I made 3D bust maker: immortalize your special moments. Ready for 3D printing",
+      "score": 2298,
+      "num_comments": 101,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m0kneg",
+      "title": "Created a Chrome extension to practice typing on any website",
+      "score": 2220,
+      "num_comments": 114,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1m7nvx5",
+      "title": "I made tinder but it’s only pictures of my wife and I can only swipe right",
+      "score": 2329,
+      "num_comments": 109,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m5chms",
+      "title": "My App surpassed $100k in revenue",
+      "score": 1944,
+      "num_comments": 201,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m5fbp2",
+      "title": "I've launched 37 products in 5 years and not doing that again",
+      "score": 1722,
+      "num_comments": 213,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lvszc2",
+      "title": "I built an infinite pixel art canvas. People have drawn 416 million individual pixels on it.",
+      "score": 1702,
+      "num_comments": 230,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lzr4fb",
+      "title": "Built a Fake DM creation tool (went viral on X and got Featured on TechCrunch)",
+      "score": 1629,
+      "num_comments": 145,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lsvuq8",
+      "title": "I Built a Pornstar Analytics Platform",
+      "score": 1376,
+      "num_comments": 228,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1lkbtgi",
+      "title": "my first app reached 500 users and i'm so happy",
+      "score": 1241,
+      "num_comments": 262,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lkv5sy",
+      "title": "My first AI startup, born in the /vue-tutorial folder, now ~15 new users per day",
+      "score": 956,
+      "num_comments": 101,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lokaib",
+      "title": "Built a DEFCON-style dashboard that tracks Pentagon pizza shop activity. It went viral.",
+      "score": 943,
+      "num_comments": 87,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1lttdju",
+      "title": "I'm full of embarrassment. Please, remember to test you software.",
+      "score": 769,
+      "num_comments": 117,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1ljxfcd",
+      "title": "I built a tool that forces you to scream \"I'm a loser\" to unlock social media",
+      "score": 763,
+      "num_comments": 77,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1llcr6o",
+      "title": "MY augmented reality project",
+      "score": 657,
+      "num_comments": 85,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m63mx7",
+      "title": "6 days, 82 commits — my second solo app is now live on the App Store! Built 100% by myself, from design, coding to marketing, solo dev is real! It’s an incredible feeling to create something from scratch and have full control every step of the way.",
+      "score": 640,
+      "num_comments": 116,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m1mnv1",
+      "title": "Using AI to detect and mute commercials while watching TV.",
+      "score": 616,
+      "num_comments": 63,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lyu4vr",
+      "title": "My girlfriend made this app to take my stress away.",
+      "score": 609,
+      "num_comments": 136,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m162vw",
+      "title": "I built a robot to shoot coffee at my face if I get distracted while working.",
+      "score": 593,
+      "num_comments": 57,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1lne2f2",
+      "title": "I created AI assistant that runs your Android hands-free called zerotap [No ADB needed]",
+      "score": 556,
+      "num_comments": 121,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1loqace",
+      "title": "Get off your a** and do push-ups",
+      "score": 537,
+      "num_comments": 85,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m2ghu9",
+      "title": "I built a clip-on AI assistant that makes any glasses smart (open-source)",
+      "score": 523,
+      "num_comments": 53,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lx8bgl",
+      "title": "This side project made me 100$ in a week.",
+      "score": 528,
+      "num_comments": 139,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1ltzpb5",
+      "title": "I made an simple all-in-one online resume builder to create your resume and for free (it even has AI)",
+      "score": 452,
+      "num_comments": 63,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1m77q2a",
+      "title": "i made a list of 80 places where you can promote your project",
+      "score": 462,
+      "num_comments": 68,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lrivq9",
+      "title": "I got tired of wondering who’s reading my chats, so I built an iOS keyboard that lets me encrypt messages anywhere",
+      "score": 453,
+      "num_comments": 95,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m50npj",
+      "title": "My side project is making decent money but I'm scared to touch it",
+      "score": 443,
+      "num_comments": 117,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1ln2kkv",
+      "title": "I built a photo restoration app with storage and family tree builder",
+      "score": 421,
+      "num_comments": 94,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lqo8gj",
+      "title": "Procrastinators unknowingly discovered the secret to focus. I turned it into a wristband.",
+      "score": 406,
+      "num_comments": 198,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m87ar4",
+      "title": "Ive been making this project for my girlfriend and I",
+      "score": 530,
+      "num_comments": 43,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m3zkez",
+      "title": "This sub used to be cool. Now it's just like r/SaaS",
+      "score": 390,
+      "num_comments": 54,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1lk8d8w",
+      "title": "4 weeks, 201 commits — my first solo app now has 5K users! Built 100% by myself, from UI/UX and coding to marketing. It’s an incredible feeling to create something from scratch and have full control every step of the way.",
+      "score": 379,
+      "num_comments": 52,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1loxxfn",
+      "title": "15 AI startup mistakes I did with my first product, Aiter.io (and how you can avoid them)",
+      "score": 371,
+      "num_comments": 49,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lr7gg4",
+      "title": "My open source project was stolen and relicensed by a YC company",
+      "score": 366,
+      "num_comments": 45,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lngysg",
+      "title": "Habit Radar is 100% Lifetime Free for the Next 24 Hours, as it featured in over 20 countries on the App Store",
+      "score": 350,
+      "num_comments": 467,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m271al",
+      "title": "my viral launch: 3k users, $1k API bill, VC offers, and quitting my job",
+      "score": 349,
+      "num_comments": 182,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lwdple",
+      "title": "Open-source can change your life (financially)",
+      "score": 350,
+      "num_comments": 56,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lw7q01",
+      "title": "Made a list of 150 places to list your startup for free",
+      "score": 344,
+      "num_comments": 74,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m6gkgx",
+      "title": "Zero Factor Authentication with AI",
+      "score": 348,
+      "num_comments": 21,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m0oy35",
+      "title": "I made a free drag-and-drop website builder that lets you use custom domains for free",
+      "score": 338,
+      "num_comments": 70,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lyssjq",
+      "title": "Just got my first paying user today!",
+      "score": 337,
+      "num_comments": 42,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lt3s57",
+      "title": "This side project made me $140 in 18 days",
+      "score": 325,
+      "num_comments": 51,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m3qwgd",
+      "title": "Got my first paid user",
+      "score": 330,
+      "num_comments": 66,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m0bsvy",
+      "title": "Free Timezone tracker for remote teams",
+      "score": 319,
+      "num_comments": 69,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lo1ium",
+      "title": "Announcing Sniffnet 1.4 — a powerful yet intuitive network monitoring tool",
+      "score": 309,
+      "num_comments": 44,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lyo9cx",
+      "title": "Someone offered me $6K for a little book app I built for fun — not sure if I should sell it or not.",
+      "score": 291,
+      "num_comments": 201,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m706x7",
+      "title": "I've developed a truly unique Pomodoro timer.",
+      "score": 288,
+      "num_comments": 49,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1ll7tr5",
+      "title": "I build this App since I’m tired of tracking credit card benefits",
+      "score": 288,
+      "num_comments": 68,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m7fldk",
+      "title": "Too many 45 y/o’s roleplaying as a child genius to farm Reddit karma",
+      "score": 284,
+      "num_comments": 31,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m83oi1",
+      "title": "Built a currency converter app after getting ripped off abroad",
+      "score": 453,
+      "num_comments": 61,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lsx9l5",
+      "title": "My side project made $2000+ from a single reddit post - Here’s what I did.",
+      "score": 270,
+      "num_comments": 85,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m0dqtw",
+      "title": "I made $1.2k with a mobile starter kit in a month (no ads, just Reddit + SEO)",
+      "score": 269,
+      "num_comments": 73,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lo8jiw",
+      "title": "I got my first paying customer after 1 month of building + showing up every day",
+      "score": 266,
+      "num_comments": 71,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lrycqc",
+      "title": "I built the first job board dedicated to $100k+ remote jobs",
+      "score": 253,
+      "num_comments": 64,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1m2qg4x",
+      "title": "I built this tool to create our company website.",
+      "score": 253,
+      "num_comments": 37,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lnw535",
+      "title": "Landing page design that will get your paying users",
+      "score": 247,
+      "num_comments": 28,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lw78xk",
+      "title": "A collective list of free APIs",
+      "score": 245,
+      "num_comments": 26,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lk96jd",
+      "title": "No Audience, No Budget, No Social Proof? This GitHub Repo Will Help You Get Your First Users",
+      "score": 238,
+      "num_comments": 69,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lyeb66",
+      "title": "I built an AI app that declutters room photos, useful for real estate, staging, and more",
+      "score": 231,
+      "num_comments": 52,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1lvalmd",
+      "title": "i worked on an app for 6 months and here is what i built!",
+      "score": 230,
+      "num_comments": 114,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lwkry0",
+      "title": "POV : Your app started making money",
+      "score": 229,
+      "num_comments": 43,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lvih7y",
+      "title": "Convert your logo like this...",
+      "score": 226,
+      "num_comments": 25,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lrhkdb",
+      "title": "I made a browser extension that calculates your carbon footprint when you shop online!",
+      "score": 226,
+      "num_comments": 9,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lqs7km",
+      "title": "I grew my side project to $130/m in 2 weeks",
+      "score": 227,
+      "num_comments": 100,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lutu32",
+      "title": "My first $1k from a side project, AI Renamer",
+      "score": 223,
+      "num_comments": 54,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m8g19p",
+      "title": "Just Launched A Gamified Travel App Where You Unlock The Globe - Need Advice",
+      "score": 477,
+      "num_comments": 95,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m6gjfh",
+      "title": "Why just set goals privately? Meet 43Check—a public goal & task manager inspired by 43Things.",
+      "score": 218,
+      "num_comments": 13,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lwczy1",
+      "title": "How I made €3,173 in the first 3 months with my macOS screen recording app",
+      "score": 204,
+      "num_comments": 83,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lmjnfy",
+      "title": "My \"million dollar ideas\" that I never executed",
+      "score": 204,
+      "num_comments": 86,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lygs32",
+      "title": "I kept losing time to reels and shorts, so I built this",
+      "score": 203,
+      "num_comments": 26,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m6y4g0",
+      "title": "Questie.ai - build your own AI companions that can roleplay, spectate your screen, save memories, and voice chat with you. Choose from many different AI models and voices.",
+      "score": 199,
+      "num_comments": 3,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lsttf0",
+      "title": "I  made my first dollar with my app",
+      "score": 194,
+      "num_comments": 38,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1m84j7x",
+      "title": "We have a new billionaire (if he's not Bullshitting)",
+      "score": 222,
+      "num_comments": 103,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lxl8an",
+      "title": "How I got the First 100 paying Customers & $7k in Revenue with my side project",
+      "score": 180,
+      "num_comments": 27,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lpmf34",
+      "title": "#1 among all iOS Shopping Apps in Switzerland",
+      "score": 182,
+      "num_comments": 40,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lndp1o",
+      "title": "Open Letter to All Vibe-Coders (Especially Those Using Supabase). DO READ!!!",
+      "score": 179,
+      "num_comments": 26,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lq86jy",
+      "title": "I just hit $15k in profit after I made a website that analyzed 150k negative reviews on G2 (from 8k+ companies) to uncover potential SaaS opportunities",
+      "score": 177,
+      "num_comments": 43,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1llsz28",
+      "title": "Oh yeah, I’m a solo dev in the 800 paying users club!",
+      "score": 178,
+      "num_comments": 50,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m4ov8f",
+      "title": "I Just Got My First Paying Customer!",
+      "score": 178,
+      "num_comments": 37,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m0yrtw",
+      "title": "I built a universal API for anything on the web",
+      "score": 164,
+      "num_comments": 36,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m75gzl",
+      "title": "Built a story app for my 5yo where he cooks up stories using emojis instead of typing. He loves it, and some other kids do too!",
+      "score": 163,
+      "num_comments": 39,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lygobd",
+      "title": "I built a simple recipe finder",
+      "score": 163,
+      "num_comments": 28,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1lpubbu",
+      "title": "My first app is LIVE 🎉",
+      "score": 161,
+      "num_comments": 55,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1ltvseq",
+      "title": "Too broke for personal trainer so I built one with AI 🏋️‍♂️",
+      "score": 162,
+      "num_comments": 36,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m322o5",
+      "title": "I made a habit app where you compete against your perfect version",
+      "score": 158,
+      "num_comments": 69,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1lo6ph7",
+      "title": "Got tired of waking people up at 3am so I made a timezone converter that shows when NOT to call",
+      "score": 148,
+      "num_comments": 9,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m0i2xs",
+      "title": "The 9 seconds Reel that got me 40K followers (Here’s Exactly How)",
+      "score": 144,
+      "num_comments": 34,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lzm7u0",
+      "title": "I grew my side project to $4.5 in 2 weeks - 100+ users, all organic",
+      "score": 142,
+      "num_comments": 77,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m66faf",
+      "title": "I made an app to convert almost any file locally. Originally shared it here and I just crossed 1000 paying users!",
+      "score": 135,
+      "num_comments": 35,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m2fomr",
+      "title": "Any musicians here? I'm building a minimal but solid metronome app",
+      "score": 133,
+      "num_comments": 46,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m69mub",
+      "title": "YO! Post your projects that is not AI based",
+      "score": 133,
+      "num_comments": 234,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lvfhpc",
+      "title": "I made $629 from a dev tool I built in my room. Here’s what worked.",
+      "score": 132,
+      "num_comments": 104,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lmsr0n",
+      "title": "Made something just for fun? Share your project!",
+      "score": 129,
+      "num_comments": 331,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lx8ejq",
+      "title": "I built a free library of 100s of AI-crafted 3D food icons",
+      "score": 132,
+      "num_comments": 64,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1m39osq",
+      "title": "I built an open-source all in one developer toolkit",
+      "score": 127,
+      "num_comments": 21,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m0g6ds",
+      "title": "When did SideProject became SideHustle?",
+      "score": 131,
+      "num_comments": 34,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m68f7y",
+      "title": "People seem to like what I built... but I have no clue how to turn that into money",
+      "score": 128,
+      "num_comments": 53,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m2dy3d",
+      "title": "Created a website that lets you compete with anyone on GitHub",
+      "score": 122,
+      "num_comments": 30,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lmqylz",
+      "title": "WE GOT OUR FIRST CUSTOMER AFTER MONTHS OF BUILDING",
+      "score": 123,
+      "num_comments": 26,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lvp1se",
+      "title": "My side project went from 27 to 4,200 users overnight, still trying to figure out how.",
+      "score": 123,
+      "num_comments": 47,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1lurpx4",
+      "title": "Best website builder: I tried 10 + website builders & here’s my honest TLDR",
+      "score": 124,
+      "num_comments": 27,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lppj0q",
+      "title": "Built a mobile app that turns your habits into a personal stock price",
+      "score": 121,
+      "num_comments": 31,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1lk29x1",
+      "title": "Get your startup in front of 100,000 readers",
+      "score": 123,
+      "num_comments": 211,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lxxtbk",
+      "title": "I built a rejection therapy app to overcome my biggest fear. Now it has 3,800 monthly users.",
+      "score": 121,
+      "num_comments": 74,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m7lyq9",
+      "title": "We built an online ranked 1v1 debate arena where an AI judge decides the winner",
+      "score": 120,
+      "num_comments": 38,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1ly41v8",
+      "title": "I Sold 2 Side Projects While Working Full-Time - Here’s What I’m Doing Next",
+      "score": 111,
+      "num_comments": 90,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1ltu4qh",
+      "title": "RedditBro 1.7 released - Deduplicator & Bulk Downloader (Chrome & Firefox extension)",
+      "score": 111,
+      "num_comments": 13,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1m4lcv6",
+      "title": "I built an AI to have better bedtime stories experience with my daughter. It's working surprisingly well.  (fully free)",
+      "score": 113,
+      "num_comments": 46,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1luasg4",
+      "title": "I bootstrapped an Apple-only ad blocker to 6 figures—no tracking, no venture $, no team. AMA.",
+      "score": 108,
+      "num_comments": 11,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m86b28",
+      "title": "💡 I launched 17 side projects. Result? I'm rich... in expired domains.",
+      "score": 153,
+      "num_comments": 40,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lnh8r4",
+      "title": "Launched my free game 30 days ago",
+      "score": 108,
+      "num_comments": 26,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m6lnkr",
+      "title": "Free ChatGPT style Cover Letter Builder - AI-Powered & Personalized | ResumeFromSpace",
+      "score": 109,
+      "num_comments": 5,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1m1e06j",
+      "title": "I got my first paying customer today using Reddit.",
+      "score": 107,
+      "num_comments": 48,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m8hd90",
+      "title": "How I Applied to 1000 Jobs in One Second and Got 240 Interviews [AMA]",
+      "score": 90,
+      "num_comments": 8,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lvl220",
+      "title": "I GOT MY FIRST PAYING USER!!!",
+      "score": 101,
+      "num_comments": 64,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1ltdl2f",
+      "title": "First app starting to make money",
+      "score": 101,
+      "num_comments": 36,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m5hoji",
+      "title": "Pitch your startup in 3 words.",
+      "score": 100,
+      "num_comments": 423,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lv2mij",
+      "title": "Website to organize board game nights",
+      "score": 102,
+      "num_comments": 7,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lujmxl",
+      "title": "What side project you are working for now drop it in comments",
+      "score": 99,
+      "num_comments": 270,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lwzvwd",
+      "title": "YO! Post your projects that is not AI based",
+      "score": 100,
+      "num_comments": 186,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lw3yv0",
+      "title": "What are you working on? I'll feature you in my app",
+      "score": 99,
+      "num_comments": 232,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lxdxgn",
+      "title": "lofinote - all in one productivity tool (for me)",
+      "score": 96,
+      "num_comments": 8,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1lto4az",
+      "title": "My project crossed $1K in revenue. Sharing some thoughts.",
+      "score": 97,
+      "num_comments": 52,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lrovpu",
+      "title": "My little project has made $210 in 3 weeks",
+      "score": 94,
+      "num_comments": 38,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lo2oo5",
+      "title": "I built a notes app with a built-in calculator that can handle calculations like \"2500kcal / 1 day in hp\" or \"£320 + 20% in USD\"",
+      "score": 93,
+      "num_comments": 22,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1ltub87",
+      "title": "Made A Free and Open-Source Dock Software For Windows (Nexus Dock Alternative)",
+      "score": 91,
+      "num_comments": 9,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1lvi8qy",
+      "title": "Just hit 500 stars on GitHub and I’m so happy",
+      "score": 91,
+      "num_comments": 12,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m3r4p5",
+      "title": "Built a Chrome Extension that creates \"Questions Index\" for ChatGPT",
+      "score": 92,
+      "num_comments": 23,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1lv6ijk",
+      "title": "Fact Check Podcasts While You Watch | BS Meter",
+      "score": 90,
+      "num_comments": 40,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lqkc6o",
+      "title": "A few days ago I went open source/pay-what-you-want. Yesterday I made my first €! AMA",
+      "score": 91,
+      "num_comments": 41,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lx4t8y",
+      "title": "Share what you’re working on, I’ll be your first customer or user",
+      "score": 86,
+      "num_comments": 193,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1lzs46s",
+      "title": "I turned Chess into an RPG and set it in Texas.",
+      "score": 89,
+      "num_comments": 11,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lw5i5f",
+      "title": "i built a website for you to learn anything in 30 days! (onemonth.dev) :D",
+      "score": 89,
+      "num_comments": 32,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1loca43",
+      "title": "Naming your startup sucks. So I’m building a tool that gives you a name, logo & colors in 1 click.",
+      "score": 90,
+      "num_comments": 41,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1ll2v06",
+      "title": "My app just hit 30 users",
+      "score": 84,
+      "num_comments": 70,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lttko8",
+      "title": "What side project are you working on right now?",
+      "score": 85,
+      "num_comments": 314,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1m0mncd",
+      "title": "I shipped a real product for the first time. And... nothing.",
+      "score": 81,
+      "num_comments": 75,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lzmxht",
+      "title": "Every time I launch a new website, I forget one stupid thing",
+      "score": 82,
+      "num_comments": 36,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1ltuk8z",
+      "title": "YouTube is starting to pay off!",
+      "score": 80,
+      "num_comments": 11,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1lr93r7",
+      "title": "My first game reached 8500 users. This is crazy 🚀",
+      "score": 83,
+      "num_comments": 26,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lssmoi",
+      "title": "My little finance app hit 40 paying users",
+      "score": 78,
+      "num_comments": 37,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lwj3n6",
+      "title": "stop asking what people are working on",
+      "score": 80,
+      "num_comments": 36,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1m77a0p",
+      "title": "I built a SaaS alone in 3 weeks, got 800K Reddit views, 234 users, 6 sales and a ton of lessons. Here’s my brutally honest journey",
+      "score": 79,
+      "num_comments": 57,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lq6d6p",
+      "title": "I'm 17 and my first app just hit 69 downloads in 6 days!!",
+      "score": 81,
+      "num_comments": 31,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m1k8ea",
+      "title": "My Indie SaaS just crossed 1.2k stars on GitHub 🤩",
+      "score": 73,
+      "num_comments": 10,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lqwz0a",
+      "title": "I built a tool that finds better reddit leads than anything else",
+      "score": 74,
+      "num_comments": 39,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1lov2xg",
+      "title": "It took me 4 months to finally get paying users",
+      "score": 75,
+      "num_comments": 71,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lls497",
+      "title": "I built a minimalist habit tracker after getting stuck chasing cheap dopamine.",
+      "score": 75,
+      "num_comments": 50,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m420wa",
+      "title": "being a saas solopreneur is easier than you think",
+      "score": 75,
+      "num_comments": 23,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lrdecg",
+      "title": "Built an AI Image Restoration Tool",
+      "score": 72,
+      "num_comments": 96,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lz570u",
+      "title": "built a timer that tracks actual coding time, not just how long VS Code was open",
+      "score": 69,
+      "num_comments": 11,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m5p3po",
+      "title": "RemindMe Chrome/FireFox extension",
+      "score": 71,
+      "num_comments": 0,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1m2dg4q",
+      "title": "They call me 007",
+      "score": 71,
+      "num_comments": 18,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1luwu23",
+      "title": "Made an app builder that handles push auth stripe supabase and more with agents",
+      "score": 70,
+      "num_comments": 2,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lrmfuv",
+      "title": "I created a website where you can turn any chess game into a painting. What do you think?",
+      "score": 72,
+      "num_comments": 13,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lp88l6",
+      "title": "I never knew this would blow( an idea I had after years of procrastinating)",
+      "score": 71,
+      "num_comments": 27,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m1qw2y",
+      "title": "I let ChatGPT interview me and it helped me come up with a side project I actually care about",
+      "score": 71,
+      "num_comments": 27,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lo3q4a",
+      "title": "I built Wallper – a macOS app for 4K animated wallpapers, because I couldn’t find anything like Wallpaper Engine",
+      "score": 72,
+      "num_comments": 18,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lnzn2t",
+      "title": "🚀 Introducing ThinkTube: Your Distraction-Free YouTube Study Companion!",
+      "score": 65,
+      "num_comments": 18,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lpv3sl",
+      "title": "Updated my take-home pay calculator with 2025 tax rates - Portugal and Denmark got expensive",
+      "score": 66,
+      "num_comments": 19,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m62raw",
+      "title": "I built an open-source Vanta alternative and we hit 4K users 🔥",
+      "score": 65,
+      "num_comments": 18,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1ls1j2a",
+      "title": "Finally hit $1000 with my habit tracker app - wild ride",
+      "score": 64,
+      "num_comments": 10,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1luub07",
+      "title": "I woke up to this and it wasn't a dream",
+      "score": 64,
+      "num_comments": 17,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1luigyj",
+      "title": "Just hit 800 downloads in my first week",
+      "score": 63,
+      "num_comments": 45,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lzmrhj",
+      "title": "I built an app that arms your Mac’s camera the moment you lock the screen",
+      "score": 66,
+      "num_comments": 17,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1luleh8",
+      "title": "Found a simple tool for faxing documents online, came in clutch when a client asked for a fax",
+      "score": 62,
+      "num_comments": 18,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lw2gyl",
+      "title": "What are you working on? Share your Project !! i will try to give you my honest feedback",
+      "score": 59,
+      "num_comments": 170,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1lmg2cf",
+      "title": "Tell me In 3 Word What you are building this weekend",
+      "score": 62,
+      "num_comments": 252,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1lriav4",
+      "title": "Building apps is hard. But marketing is even harder.",
+      "score": 62,
+      "num_comments": 10,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m28lrv",
+      "title": "[update] you roasted my productivity timer - so i rebuilt it. 0% to 70% activation in one week.",
+      "score": 57,
+      "num_comments": 7,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1ltj87a",
+      "title": "Share your projects, I will give it some feedback or even be your first (paid) user!",
+      "score": 60,
+      "num_comments": 240,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1lk0hnb",
+      "title": "Made a website where you can watch live F1 and watch previous races for free!",
+      "score": 59,
+      "num_comments": 22,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m8h07w",
+      "title": "Just made my sixth $1,000 with my side project today 🥳",
+      "score": 95,
+      "num_comments": 42,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m3wpmb",
+      "title": "Made a AI UGC video creator that can hold and talk about your product",
+      "score": 56,
+      "num_comments": 83,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1lroz7u",
+      "title": "I built a chrome extension that lets you try on clothes while shopping online.",
+      "score": 58,
+      "num_comments": 13,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1m5kad6",
+      "title": "Holysh**t My app is growing crazy.",
+      "score": 56,
+      "num_comments": 30,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lzocic",
+      "title": "Just crossed $1K total revenue and hit $198 MRR",
+      "score": 55,
+      "num_comments": 8,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lsp18l",
+      "title": "Finally launched my side project yesterday. It’s just a tiny tool… but the response surprised me.",
+      "score": 54,
+      "num_comments": 50,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lln205",
+      "title": "An app for when changing room layouts is your hobby",
+      "score": 55,
+      "num_comments": 18,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m2jrn1",
+      "title": "My tiny team made a super-fast, lightweight AI vision ingredient decoder (250+ active users)",
+      "score": 51,
+      "num_comments": 46,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1m2cdim",
+      "title": "My android app just crossed 10k installs in less than 6 months",
+      "score": 53,
+      "num_comments": 20,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1ll03bc",
+      "title": "What are you building? Share your project.",
+      "score": 57,
+      "num_comments": 220,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1m7vqiw",
+      "title": "I Built a Personal AI university",
+      "score": 59,
+      "num_comments": 61,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lyzlib",
+      "title": "What are you building these days? And is anyone actually paying for it?",
+      "score": 57,
+      "num_comments": 129,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1ltpizj",
+      "title": "My screen time was going up. So I made this.",
+      "score": 57,
+      "num_comments": 16,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lo5b6v",
+      "title": "I built a free memory tracking app to help you remember the last time you did something",
+      "score": 55,
+      "num_comments": 14,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lm8rxq",
+      "title": "My side project landed me a job! I went from 8 months with 1 interview to 5 interviews in the later stages and 2 offers all in a 3 week span",
+      "score": 51,
+      "num_comments": 31,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lmnd3s",
+      "title": "I'm an 18y/o solo developer and have been building a web app for the past 5 months. Let me know your honest opinions on the home page.",
+      "score": 53,
+      "num_comments": 78,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m3fd5o",
+      "title": "Spent 6 months building login screens instead of my actual app. Don't be me.",
+      "score": 50,
+      "num_comments": 9,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m1v395",
+      "title": "One app to rule all your AI tools, yep it’s real now",
+      "score": 51,
+      "num_comments": 14,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lto6hh",
+      "title": "I just got my first paid subscriber for my app",
+      "score": 51,
+      "num_comments": 18,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lpvnua",
+      "title": "I made my first $100 from r/macapps Reddit posts",
+      "score": 51,
+      "num_comments": 20,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1llc6be",
+      "title": "From chat to launch in under 2 minutes; meet your new AI web builder",
+      "score": 52,
+      "num_comments": 4,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1ll1st4",
+      "title": "I built a mobile app starter kit with Next.js + Capacitor. $220 in revenue, 4 paying users, and lots of lessons.",
+      "score": 52,
+      "num_comments": 43,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m5i7wt",
+      "title": "MedAsk – A healthcare companion to guide you through symptoms and prepare for doctor visits",
+      "score": 50,
+      "num_comments": 7,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1luirl5",
+      "title": "We made a visual, node-based builder that empowers you to create powerful AI agents for any task, without writing a single line of code.",
+      "score": 52,
+      "num_comments": 30,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m3mhw6",
+      "title": "I build a tool to turn any logo into icons for web, mobile, and desktop — all sizes handled automatically.",
+      "score": 49,
+      "num_comments": 12,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m1ykec",
+      "title": "I build web app to help me release my stress",
+      "score": 50,
+      "num_comments": 6,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m1j2lt",
+      "title": "mitte 1.0 - AI Creative Suite (been working on it for 6 months)",
+      "score": 47,
+      "num_comments": 11,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1lrflv9",
+      "title": "I sell playing cards that take you back in time!",
+      "score": 48,
+      "num_comments": 15,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m72skr",
+      "title": "Drop your product. What are you building this week?",
+      "score": 47,
+      "num_comments": 159,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lt3r22",
+      "title": "Projects NOT using AI?",
+      "score": 48,
+      "num_comments": 86,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1ln832n",
+      "title": "I made a gang sign door",
+      "score": 48,
+      "num_comments": 7,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1m4m6l6",
+      "title": "What are you guys building ?",
+      "score": 48,
+      "num_comments": 41,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lzggrp",
+      "title": "It's Monday, drop your product. What are you building?",
+      "score": 46,
+      "num_comments": 163,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lzf584",
+      "title": "I built an AI tool to help real estate professionals transform their listing photos in seconds – would love your feedback!",
+      "score": 50,
+      "num_comments": 61,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lwirl0",
+      "title": "My app has crossed $500/month for the first time after 5 months of building",
+      "score": 48,
+      "num_comments": 11,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lvz5lu",
+      "title": "I spent 10 years building a sci-fi universe alone. No team. No AI. Just grit",
+      "score": 46,
+      "num_comments": 13,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lp2t4q",
+      "title": "Made an app to teach email phishing awareness to friends/family/teams. Teach your parents how to spot suspicious emails so they stop asking you!",
+      "score": 46,
+      "num_comments": 4,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1llpoi8",
+      "title": "I've put 3 apps into 1",
+      "score": 47,
+      "num_comments": 23,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1ltrq5n",
+      "title": "It's Monday, share your product !! I'll personally try it out and give my honest, actionable feedback.",
+      "score": 44,
+      "num_comments": 125,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1m2xe50",
+      "title": "Update: I closed a pre-seed round from my post here a few weeks ago",
+      "score": 46,
+      "num_comments": 20,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lxakhw",
+      "title": "I built an app that identifies movies in seconds! instagram. tiktok. anywhere.",
+      "score": 45,
+      "num_comments": 61,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lt044w",
+      "title": "Free SVG Icons Library | BruhGrow Tools",
+      "score": 43,
+      "num_comments": 20,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1lul4d9",
+      "title": "What are you building this week?",
+      "score": 44,
+      "num_comments": 119,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lmpe4v",
+      "title": "My fake door test page just passed 100 signups in less than a day",
+      "score": 41,
+      "num_comments": 27,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m860fd",
+      "title": "I built an app with 350+ places to promote your startup (with a lot more on the way)",
+      "score": 60,
+      "num_comments": 20,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m6ycwf",
+      "title": "What's your best project? Share your projects and let others know what you are working on, and get feedback !!",
+      "score": 43,
+      "num_comments": 85,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lw8hoj",
+      "title": "i built an app that turns boring talking videos into cinematic style edits for instagram & tiktok",
+      "score": 43,
+      "num_comments": 14,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m3ygwg",
+      "title": "I made $23 in a week from my side project thanks to Reddit.",
+      "score": 42,
+      "num_comments": 35,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1lxu00t",
+      "title": "JUST LANDED MY FIRST CLIENT!!🎉",
+      "score": 41,
+      "num_comments": 43,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lx9bz2",
+      "title": "After 1.5 years of building, my app made $408 in 2 months. Here’s the honest story.",
+      "score": 41,
+      "num_comments": 45,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lu7rqd",
+      "title": "added a new feature to my photo restoration app, got a lot of love last time, now you can bring your memories to life!",
+      "score": 41,
+      "num_comments": 14,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1llyo6j",
+      "title": "Running a SaaS on code I don't understand - am I fucked?",
+      "score": 41,
+      "num_comments": 26,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1lkabo0",
+      "title": "We built a playground to compare 100+ genAI models side by side in one click",
+      "score": 43,
+      "num_comments": 18,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m6cwm1",
+      "title": "Can you rate my new app icon and color palette 🎨?",
+      "score": 40,
+      "num_comments": 27,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m2s8nv",
+      "title": "What are you launching guys? Will give feedback",
+      "score": 40,
+      "num_comments": 83,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1m26yh0",
+      "title": "Built a free open source AI meeting notetaker",
+      "score": 39,
+      "num_comments": 53,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m248yp",
+      "title": "I made a website that shows only educational YouTube videos.",
+      "score": 42,
+      "num_comments": 22,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1lysv64",
+      "title": "RemoveBG – Instantly remove image backgrounds with a right-click (offline, Windows-only)",
+      "score": 40,
+      "num_comments": 18,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1lxu3w5",
+      "title": "I built a mini game just for fun, consumes 20 mins of my time and cost me 2$ for domain",
+      "score": 38,
+      "num_comments": 42,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lvdtn5",
+      "title": "I built a journaling app that helps you improve 1% every day",
+      "score": 39,
+      "num_comments": 6,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m5tntx",
+      "title": "Just crossed €1,000 MRR with my F1 prediction app 🚀",
+      "score": 40,
+      "num_comments": 11,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m5ddtz",
+      "title": "It's Monday, drop your product. What are you building?",
+      "score": 38,
+      "num_comments": 153,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lprswd",
+      "title": "I built a free chrome extension to stop procrastinating on youtube",
+      "score": 39,
+      "num_comments": 18,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1lk0a6v",
+      "title": "been building my own cozy terminal almost from scratch for fun for the last 7 days",
+      "score": 39,
+      "num_comments": 6,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1lva9dl",
+      "title": "Show your project here, and I will try to be the first user.",
+      "score": 38,
+      "num_comments": 131,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1luhhy2",
+      "title": "70 users in 4 days - here is how i did it",
+      "score": 38,
+      "num_comments": 39,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lofpyp",
+      "title": "Got my first customer on my new app last night and I’m elated",
+      "score": 38,
+      "num_comments": 18,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m75vs0",
+      "title": "Got 800+ Visitors and Made $4/Visitor for my SEO directory submission SaaS by just posting on X and Reddit",
+      "score": 37,
+      "num_comments": 38,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m3sqbl",
+      "title": "My app went viral in Colombia",
+      "score": 39,
+      "num_comments": 5,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m2n8xr",
+      "title": "I made a chrome extension which makes that inspect trick permanent, even after refresh. Lol",
+      "score": 39,
+      "num_comments": 28,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m1ocn1",
+      "title": "🚀 Built a free tool to automatically blur faces, license plates, and text in images – Feedback appreciated!",
+      "score": 37,
+      "num_comments": 15,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1m11te8",
+      "title": "What's your best project? Share your projects and let others know what you are working on, and get feedback !!",
+      "score": 39,
+      "num_comments": 94,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1ltxb45",
+      "title": "I'm building a Open source habit tracker for students and professionals",
+      "score": 37,
+      "num_comments": 17,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1loy7ju",
+      "title": "Building a universal clipboard to sync copy history across devices — would love your thoughts!",
+      "score": 35,
+      "num_comments": 44,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1lo6y1f",
+      "title": "It's Monday, drop your product. What are you building?",
+      "score": 36,
+      "num_comments": 170,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lly9tk",
+      "title": "Built an app to teach your boomer parents and grandparents what to look out for with suspicious emails!",
+      "score": 41,
+      "num_comments": 5,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1m83yk7",
+      "title": "Built a Reddit growth tool after seeing clients miss their own brand mentions",
+      "score": 37,
+      "num_comments": 36,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1m5r2v2",
+      "title": "I built TheInternetIsShit because finding cool websites shouldn't be this hard...",
+      "score": 36,
+      "num_comments": 14,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lzfno6",
+      "title": "I’m mapping out every Jiu Jitsu position and submission",
+      "score": 36,
+      "num_comments": 19,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lvrdfj",
+      "title": "Ultimate App for Making Beautiful Device Mockups & Screenshot",
+      "score": 37,
+      "num_comments": 4,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1luc71e",
+      "title": "Made an app that turns Wikipedia into an endless scroller with selectable categories",
+      "score": 34,
+      "num_comments": 7,
+      "theme_cluster": 5
+    },
+    {
+      "id": "1lsf3jk",
+      "title": "How do you guys stay motivated when nothing you’ve made has worked so far? Not even one thing hit. Just silence. Be honest—what keeps you going? Been struggling and need some advice",
+      "score": 36,
+      "num_comments": 45,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1llk4ki",
+      "title": "I built an AI that generates Khan Academy-style videos from a single prompt. Here’s the first one.",
+      "score": 35,
+      "num_comments": 20,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m5pr59",
+      "title": "Drop your product page, I'll review it and give you FREE SEO tips",
+      "score": 37,
+      "num_comments": 215,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1m0kss3",
+      "title": "I Built a Smart Tab Manager for Chrome & Firefox – Boost Productivity, Save Memory, and Reduce CPU/GPU Load, Heat, and Battery Drain",
+      "score": 35,
+      "num_comments": 2,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1lt7n27",
+      "title": "After 2 months of building, I finally have a working demo of my flight search engine - and it’s kinda wild",
+      "score": 33,
+      "num_comments": 44,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1ls7xjy",
+      "title": "A Timeline website I made (using WordPress)",
+      "score": 35,
+      "num_comments": 4,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1ln0ckt",
+      "title": "I wanted a note-taking app as minimalistic as Google Keep, but with added support for hierarchies, a canvas to spatially arrange notes like on a corkboard, and why not, an intelligent agent to help organize and create notes effortlessly. So, I built this app.",
+      "score": 34,
+      "num_comments": 26,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m5hqa4",
+      "title": "Lifetime codes for my app’s first birthday",
+      "score": 35,
+      "num_comments": 37,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1llwu61",
+      "title": "I built an app that finds Reddit leads for your business. Just added a free trial.",
+      "score": 35,
+      "num_comments": 6,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1llpgjq",
+      "title": "Share if you building something crazy!",
+      "score": 33,
+      "num_comments": 126,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1m7d7q2",
+      "title": "I built a website where you can customize and download any symbol as an SVG or PNG image, or copy symbols along with their Unicode, HTML, CSS, and ALT codes",
+      "score": 31,
+      "num_comments": 5,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1ly7u0g",
+      "title": "I made a tool to level up your social confidence—one real scenario at a time",
+      "score": 33,
+      "num_comments": 6,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1lsty8l",
+      "title": "I'm building MicroTribe",
+      "score": 34,
+      "num_comments": 45,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lpq2yz",
+      "title": "We just launched Wallper on Product Hunt today 🚀",
+      "score": 33,
+      "num_comments": 7,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m42wh0",
+      "title": "If you've ever dreamed of being caught cheating on a giant jumbotron, I got you",
+      "score": 30,
+      "num_comments": 31,
+      "theme_cluster": 0
+    },
+    {
+      "id": "1m41set",
+      "title": "What product are you currently building? Drop a link and short description 🚀",
+      "score": 31,
+      "num_comments": 137,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1m0f2d3",
+      "title": "Sell the results and not your tool",
+      "score": 35,
+      "num_comments": 6,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1lxhryo",
+      "title": "I made AI 3D cartoon avatar generator. Try it for free 👀",
+      "score": 32,
+      "num_comments": 12,
+      "theme_cluster": 2
+    },
+    {
+      "id": "1lp0lw4",
+      "title": "He Offered Me $750 P/M Job. Today I Closed $2000 Client From My Bedroom",
+      "score": 32,
+      "num_comments": 6,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1ll6ijb",
+      "title": "SOMEONE FINALLY PAID FOR MY PRODUCT!!!!",
+      "score": 32,
+      "num_comments": 7,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m2v6tu",
+      "title": "An opensource HTML editor for using in your projects",
+      "score": 31,
+      "num_comments": 7,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1ls76it",
+      "title": "I built a gpt wrapper that lets you create ai ads without design/prompting skills",
+      "score": 32,
+      "num_comments": 7,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lrmg0y",
+      "title": "Built a no-upload file converter that runs 100% in your browser",
+      "score": 31,
+      "num_comments": 23,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m7n3ty",
+      "title": "🚀 Just launched PingGPT — bring ChatGPT to any textbox using @gpt + Tab and much more",
+      "score": 30,
+      "num_comments": 10,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1m3cu94",
+      "title": "Created a $25 smart gym for my mobility community instead of paying $4k+",
+      "score": 29,
+      "num_comments": 6,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1loyxv7",
+      "title": "Built my own second brain to stop losing ideas - just launched it today 🚀",
+      "score": 30,
+      "num_comments": 18,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lneuta",
+      "title": "First Stripe payout. Call me Jeff Bezos.",
+      "score": 29,
+      "num_comments": 1,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1llzwik",
+      "title": "First Portfolio Website - Would Love Some Feedback!",
+      "score": 31,
+      "num_comments": 10,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1m61vmd",
+      "title": "Made an open source social network where you can share your projects",
+      "score": 30,
+      "num_comments": 8,
+      "theme_cluster": 7
+    },
+    {
+      "id": "1m2xgr7",
+      "title": "Looking for cool projects to check out!",
+      "score": 31,
+      "num_comments": 125,
+      "theme_cluster": 9
+    },
+    {
+      "id": "1lzfblz",
+      "title": "What's your best project? Share your projects and let others know what you are working on, and get feedback !!",
+      "score": 27,
+      "num_comments": 89,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lqupsi",
+      "title": "Built a crazy fast SVG Scraper",
+      "score": 30,
+      "num_comments": 11,
+      "theme_cluster": 1
+    },
+    {
+      "id": "1lkles0",
+      "title": "We needed a better slide export tool so we built one",
+      "score": 29,
+      "num_comments": 1,
+      "theme_cluster": 6
+    },
+    {
+      "id": "1m79g3z",
+      "title": "What are you guys building right now ?",
+      "score": 30,
+      "num_comments": 40,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1m59xca",
+      "title": "What if you could rate the health of subreddits before you get your feelings hurt?",
+      "score": 28,
+      "num_comments": 4,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1m3yhmb",
+      "title": "What are you building these days? And is anyone actually paying for it?",
+      "score": 29,
+      "num_comments": 132,
+      "theme_cluster": 8
+    },
+    {
+      "id": "1lzp1lu",
+      "title": "I've been unemployed for 7 months, so I built an AI tool to help optimize my job applications",
+      "score": 29,
+      "num_comments": 22,
+      "theme_cluster": 4
+    },
+    {
+      "id": "1lxyf4l",
+      "title": "Launched CaloTrack 12 days ago – 480 users and $238 revenue so far 🚀",
+      "score": 29,
+      "num_comments": 25,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lt3o0s",
+      "title": "Month 1 stats for my first iOS app",
+      "score": 27,
+      "num_comments": 13,
+      "theme_cluster": 3
+    },
+    {
+      "id": "1lt1i0c",
+      "title": "This free site determines the best day and time to post on r/SideProject",
+      "score": 27,
+      "num_comments": 4,
+      "theme_cluster": 9
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+main_theme,sub_theme,score,comments
+Lifestyle,3D Printing,2298,101
+Lifestyle,Personalization,2298,101
+Education,Typing Skills,2220,114
+Education,Browser Extensions,2220,114
+Social/Communication,Personalization,2329,109
+Social/Communication,Novelty Apps,2329,109
+Education,Language Learning,1944,201
+Education,Mobile Apps,1944,201
+Business Tools,Product Launch,1722,213
+Business Tools,Growth Strategy,1722,213
+Games,Online Communities,1702,230
+Games,Creative Platforms,1702,230
+Social/Communication,Content Creation,1629,145
+Social/Communication,Entertainment,1629,145
+Data/Analytics,Entertainment,1376,228
+Data/Analytics,Business Tools,1376,228
+Mobile Apps,User Growth,1241,262
+Mobile Apps,Entrepreneurship,1241,262
+Productivity,Resume Building,956,101
+Productivity,Job Applications,956,101
+Data/Analytics,Real-time Monitoring,943,87
+Data/Analytics,Open Source Intelligence (OSINT),943,87
+Web Development,E-commerce,769,117
+Web Development,Developer Tools,769,117
+Productivity,Social/Communication,763,77
+Productivity,Browser Extensions,763,77
+Mobile Apps,Augmented Reality,657,85
+Mobile Apps,Entertainment,657,85
+Mobile Apps,Privacy,640,116
+Mobile Apps,Lifestyle,640,116
+Entertainment,AI/ML Tools,616,63
+Entertainment,Automation,616,63
+Social/Communication,AI/ML Tools,609,136
+Social/Communication,Mobile Apps,609,136
+Productivity,Automation,593,57
+Productivity,Browser Extensions,593,57
+Mobile Apps,AI/ML Tools,556,121
+Mobile Apps,Automation,556,121
+Health & Fitness,Mobile Apps,537,85
+Health & Fitness,Productivity,537,85
+Health & Fitness,Accessibility,523,53
+Health & Fitness,Wearable Technology,523,53
+Content Creation,AI/ML Tools,528,139
+Content Creation,Social/Communication,528,139
+Productivity,AI/ML Tools,452,63
+Productivity,Web Development,452,63
+Productivity,Startup Launch,462,68
+Productivity,Marketing,462,68
+Security/Privacy,Mobile Apps,453,95
+Security/Privacy,Social/Communication,453,95
+E-commerce,Affiliate Marketing,443,117
+E-commerce,Web Development,443,117
+Mobile Apps,Photo Restoration,421,94
+Mobile Apps,Family History,421,94
+Productivity,Focus Enhancement,406,198
+Productivity,Time Management,406,198
+Social/Communication,Connected Devices,530,43
+Social/Communication,Long-Distance Relationships,530,43
+Social/Communication,Community Management,390,54
+Social/Communication,Content Moderation,390,54
+Mobile Apps,Productivity,379,52
+Mobile Apps,Security/Privacy,379,52
+AI/ML Tools,Startup Mistakes,371,49
+AI/ML Tools,Entrepreneurship,371,49
+Developer Tools,Open Source,366,45
+Developer Tools,Licensing,366,45
+Productivity,Mobile Apps,350,467
+Productivity,Lifestyle,350,467
+Productivity,Writing Tools,349,182
+Productivity,AI/ML Tools,349,182
+Social/Communication,Open-source,350,56
+Social/Communication,Financial Independence,350,56
+Productivity,Startup Launch,344,74
+Productivity,Task Management,344,74
+Security/Privacy,Authentication,348,21
+Security/Privacy,AI/ML Tools,348,21
+Web Development,Website Builders,338,70
+Web Development,Domain Management,338,70
+Data/Analytics,Developer Tools,337,42
+Data/Analytics,Productivity,337,42
+Social/Communication,Viral Marketing,325,51
+Social/Communication,User Engagement,325,51
+Mobile Apps,Productivity,330,66
+Mobile Apps,Lifestyle,330,66
+Productivity,Remote Work,319,69
+Productivity,Time Management,319,69
+Data/Analytics,Network Monitoring,309,44
+Data/Analytics,Open Source Tools,309,44
+Mobile Apps,Community Building,291,201
+Mobile Apps,Book Lovers,291,201
+Productivity,Time Management,288,49
+Productivity,Focus Enhancement,288,49
+Finance,Credit Card Management,288,68
+Finance,Personal Finance,288,68
+Social/Communication,Online Communities,284,31
+Social/Communication,User Engagement,284,31
+Finance,Travel,453,61
+Finance,Currency Exchange,453,61
+Productivity,Developer Tools,270,85
+Productivity,Automation,270,85
+Mobile Apps,Developer Tools,269,73
+Mobile Apps,Web Development,269,73
+Social/Communication,Social Media Management,266,71
+Social/Communication,Marketing,266,71
+E-commerce,Remote Work,253,64
+E-commerce,Job Market,253,64
+Web Development,Responsive Design,253,37
+Web Development,Visual Editors,253,37
+Mobile Apps,User Experience,247,28
+Mobile Apps,Conversion Optimization,247,28
+Web Development,API Integration,245,26
+Web Development,Developer Resources,245,26
+Business Tools,Marketing,238,69
+Business Tools,User Acquisition,238,69
+Other,Photography,231,52
+Other,AI/ML Tools,231,52
+Productivity,Time Management,230,114
+Productivity,Focus Enhancement,230,114
+Finance,Mobile Apps,229,43
+Finance,E-commerce,229,43
+Content Creation,Design,226,25
+Content Creation,Branding,226,25
+Browser Extensions,E-commerce,226,9
+Browser Extensions,Sustainability,226,9
+Content Creation,Social Media Engagement,227,100
+Content Creation,Organic Growth,227,100
+Productivity,AI/ML Tools,223,54
+Productivity,Security/Privacy,223,54
+Mobile Apps,Travel,477,95
+Mobile Apps,Gamification,477,95
+Productivity,Goal Management,218,13
+Productivity,Social Motivation,218,13
+Productivity,Content Creation,204,83
+Productivity,Software Development,204,83
+Social/Communication,Microtransactions,204,86
+Social/Communication,Online Communities,204,86
+Productivity,Digital Wellbeing,203,26
+Productivity,Time Management,203,26
+AI/ML Tools,Social/Communication,199,3
+AI/ML Tools,Entertainment,199,3
+Mobile Apps,Productivity,194,38
+Mobile Apps,Lifestyle,194,38
+Data/Analytics,Compression Algorithms,222,103
+Data/Analytics,Data Storage,222,103
+Data/Analytics,Trend Analysis,180,27
+Data/Analytics,Market Research,180,27
+E-commerce,Sustainability,182,40
+E-commerce,Local Commerce,182,40
+Security/Privacy,Web Development,179,26
+Security/Privacy,Developer Tools,179,26
+Automation,SaaS Opportunities,177,43
+Automation,Negative Review Analysis,177,43
+Productivity,File Conversion,178,50
+Productivity,Efficiency,178,50
+Browser Extensions,Content Creation,178,37
+Browser Extensions,Productivity,178,37
+Data/Analytics,Web Scraping,164,36
+Data/Analytics,Real-time Data,164,36
+Education,Child Development,163,39
+Education,Interactive Learning,163,39
+Lifestyle,Cooking,163,28
+Lifestyle,User Experience,163,28
+Mobile Apps,App Development,161,55
+Mobile Apps,User Engagement,161,55
+Health & Fitness,AI/ML Tools,162,36
+Health & Fitness,Personal Training,162,36
+Mobile Apps,Productivity,158,69
+Mobile Apps,Health & Fitness,158,69
+Productivity,Time Management,148,9
+Productivity,Remote Work,148,9
+Finance,Social Media Strategy,144,34
+Finance,Content Creation,144,34
+Social/Communication,Community Building,142,77
+Social/Communication,Organic Growth,142,77
+Productivity,Security/Privacy,135,35
+Productivity,Automation,135,35
+Mobile Apps,Music,133,46
+Mobile Apps,Productivity,133,46
+Social/Communication,Community Engagement,133,234
+Social/Communication,Online Promotion,133,234
+Developer Tools,Mobile Apps,132,104
+Developer Tools,Web Development,132,104
+Productivity,Time Management,129,331
+Productivity,Motivation,129,331
+Content Creation,Design Resources,132,64
+Content Creation,3D Modeling,132,64
+Developer Tools,Security/Privacy,127,21
+Developer Tools,Productivity,127,21
+Business Tools,Side Projects,131,34
+Business Tools,Monetization,131,34
+Web Development,Launch Readiness,128,53
+Web Development,Website Optimization,128,53
+Productivity,Habit Tracking,122,30
+Productivity,Social Competition,122,30
+E-commerce,Customer Acquisition,123,26
+E-commerce,Validation,123,26
+Games,Educational Games,123,47
+Games,Online Gaming,123,47
+Web Development,Website Builders,124,27
+Web Development,Design Flexibility,124,27
+Mobile Apps,Productivity,121,31
+Mobile Apps,Health & Fitness,121,31
+Business Tools,Marketing,123,211
+Business Tools,Startup Growth,123,211
+Health & Fitness,Mental Health,121,74
+Health & Fitness,Self-Improvement,121,74
+Games,AI/ML Tools,120,38
+Games,Social/Communication,120,38
+Web Development,Side Projects,111,90
+Web Development,Developer Tools,111,90
+Browser Extensions,Productivity,111,13
+Browser Extensions,Content Creation,111,13
+Entertainment,Education,113,46
+Entertainment,AI/ML Tools,113,46
+Security/Privacy,Ad Blocking,108,11
+Security/Privacy,Apple Ecosystem,108,11
+Productivity,Project Management,153,40
+Productivity,Time Management,153,40
+Games,Trading,108,26
+Games,Online Gaming,108,26
+Productivity,AI/ML Tools,109,5
+Productivity,Business Tools,109,5
+Social/Communication,LinkedIn Management,107,48
+Social/Communication,Lead Tracking,107,48
+Automation,Job Search,90,8
+Automation,AI/ML Tools,90,8
+E-commerce,User Acquisition,101,64
+E-commerce,Startup Growth,101,64
+Mobile Apps,Monetization,101,36
+Mobile Apps,User Acquisition,101,36
+AI/ML Tools,Content Creation,100,423
+AI/ML Tools,Productivity,100,423
+Social/Communication,Event Management,102,7
+Social/Communication,Community Building,102,7
+Health & Fitness,Nutrition,99,270
+Health & Fitness,Mobile Apps,99,270
+Games,Augmented Reality,100,186
+Games,Mobile Apps,100,186
+Entertainment,Music,99,232
+Entertainment,Event Management,99,232
+Productivity,Personal Organization,96,8
+Productivity,Time Management,96,8
+E-commerce,User Experience,97,52
+E-commerce,Marketing Strategy,97,52
+Social/Communication,Networking,94,38
+Social/Communication,Community Building,94,38
+Productivity,Finance,93,22
+Productivity,Mobile Apps,93,22
+Productivity,Customization,91,9
+Productivity,User Interface,91,9
+Content Creation,Open Source Projects,91,12
+Content Creation,Community Engagement,91,12
+Browser Extensions,Productivity,92,23
+Browser Extensions,AI/ML Tools,92,23
+Entertainment,Podcasting,90,40
+Entertainment,Fact-Checking,90,40
+AI/ML Tools,Image Generation,91,41
+AI/ML Tools,Style Consistency,91,41
+E-commerce,Lead Generation,86,193
+E-commerce,Marketing Tools,86,193
+Games,Indie Development,89,11
+Games,Chess RPG,89,11
+Education,Online Learning,89,32
+Education,Skill Development,89,32
+Business Tools,Branding,90,41
+Business Tools,Design Automation,90,41
+Finance,Personal Finance,84,70
+Finance,User Experience,84,70
+Other,AI/ML Tools,85,314
+Other,Productivity,85,314
+Productivity,Image Processing,81,75
+Productivity,Desktop Applications,81,75
+Web Development,Productivity,82,36
+Web Development,Automation,82,36
+Content Creation,Monetization,80,11
+Content Creation,Audience Engagement,80,11
+Games,Mobile Apps,83,26
+Games,Marketing,83,26
+Finance,Personal Finance Management,78,37
+Finance,Mobile Apps,78,37
+Social/Communication,Online Communities,80,36
+Social/Communication,Idea Sharing,80,36
+Content Creation,Image Editing,79,57
+Content Creation,Design Tools,79,57
+Mobile Apps,Productivity,81,31
+Mobile Apps,User Engagement,81,31
+Developer Tools,Open Source,73,10
+Developer Tools,Community Engagement,73,10
+Social/Communication,Lead Generation,74,39
+Social/Communication,Market Research,74,39
+Content Creation,Video Editing,75,71
+Content Creation,Social Media,75,71
+Health & Fitness,Habit Tracking,75,50
+Health & Fitness,Mental Well-being,75,50
+Web Development,SaaS,75,23
+Web Development,Entrepreneurship,75,23
+Content Creation,Image Restoration,72,96
+Content Creation,AI Tools,72,96
+Developer Tools,Productivity,69,11
+Developer Tools,Time Management,69,11
+Browser Extensions,Productivity,71,0
+Browser Extensions,Entertainment,71,0
+Business Tools,Startup Management,71,18
+Business Tools,Entrepreneurship,71,18
+Mobile Apps,App Development,70,2
+Mobile Apps,Automation,70,2
+Entertainment,Art,72,13
+Entertainment,Games,72,13
+E-commerce,Job Market,71,27
+E-commerce,Immigration,71,27
+Education,Programming,71,27
+Education,UI/UX Design,71,27
+Entertainment,Desktop Customization,72,18
+Entertainment,Visual Aesthetics,72,18
+Education,Productivity,65,18
+Education,Browser Extensions,65,18
+Finance,Tax Calculation,66,19
+Finance,Personal Finance,66,19
+Security/Privacy,Compliance,65,18
+Security/Privacy,Open Source,65,18
+Productivity,Mobile Apps,64,10
+Productivity,Health & Fitness,64,10
+E-commerce,Web Development,64,17
+E-commerce,Productivity,64,17
+Mobile Apps,Reading Apps,63,45
+Mobile Apps,Indie Development,63,45
+Security/Privacy,Home Security,66,17
+Security/Privacy,Personal Privacy,66,17
+Productivity,Document Management,62,18
+Productivity,Remote Work,62,18
+Entertainment,Music,59,170
+Entertainment,Event Management,59,170
+Social/Communication,Community Engagement,62,252
+Social/Communication,Project Sharing,62,252
+Other,Influencer Marketing,62,10
+Other,App Promotion,62,10
+Developer Tools,Productivity,57,7
+Developer Tools,Time Management,57,7
+AI/ML Tools,Chatbots,60,240
+AI/ML Tools,AI Model Access,60,240
+Entertainment,Streaming,59,22
+Entertainment,Sports,59,22
+Business Tools,Productivity,95,42
+Business Tools,Web Development,95,42
+Content Creation,AI/ML Tools,56,83
+Content Creation,E-commerce,56,83
+E-commerce,Browser Extensions,58,13
+E-commerce,AI/ML Tools,58,13
+AI/ML Tools,Web Development,56,30
+AI/ML Tools,Analytics,56,30
+Content Creation,Video Production,55,8
+Content Creation,AI/ML Tools,55,8
+Developer Tools,Time Conversion,54,50
+Developer Tools,Data Processing,54,50
+Lifestyle,Home Improvement,55,18
+Lifestyle,Interior Design,55,18
+Health & Fitness,AI/ML Tools,51,46
+Health & Fitness,Mobile Apps,51,46
+Mobile Apps,Accessibility,53,20
+Mobile Apps,User Experience,53,20
+AI/ML Tools,Digital Memory,57,220
+AI/ML Tools,Personalized AI,57,220
+Education,AI/ML Tools,59,61
+Education,Productivity,59,61
+Developer Tools,AI/ML Tools,57,129
+Developer Tools,Productivity,57,129
+Health & Fitness,Digital Wellbeing,57,16
+Health & Fitness,Screen Time Management,57,16
+Productivity,Mobile Apps,55,14
+Productivity,Lifestyle,55,14
+Web Development,Job Search,51,31
+Web Development,Career Development,51,31
+E-commerce,Product Design,53,78
+E-commerce,Print-on-Demand,53,78
+Health & Fitness,Mobile Apps,50,9
+Health & Fitness,Security/Privacy,50,9
+Productivity,AI/ML Tools,51,14
+Productivity,Automation,51,14
+Mobile Apps,Subscription Services,51,18
+Mobile Apps,Indie Development,51,18
+Productivity,Mac Apps,51,20
+Productivity,Design Tools,51,20
+Web Development,AI/ML Tools,52,4
+Web Development,Business Tools,52,4
+Mobile Apps,Web Development,52,43
+Mobile Apps,Developer Tools,52,43
+Health & Fitness,Symptom Analysis,50,7
+Health & Fitness,Healthcare Guidance,50,7
+AI/ML Tools,No-Code Development,52,30
+AI/ML Tools,AI Agent Creation,52,30
+Web Development,Design Tools,49,12
+Web Development,Icon Generation,49,12
+Health & Fitness,Mental Health,50,6
+Health & Fitness,Stress Management,50,6
+Content Creation,AI/ML Tools,47,11
+Content Creation,Productivity,47,11
+E-commerce,Marketing,48,15
+E-commerce,Customer Engagement,48,15
+Content Creation,Photo Editing,47,159
+Content Creation,Relaxation Platforms,47,159
+Web Development,User Feedback,48,86
+Web Development,Customer Engagement,48,86
+Security/Privacy,Home Security,48,7
+Security/Privacy,Smart Devices,48,7
+Social/Communication,Travel Planning,48,41
+Social/Communication,Expense Management,48,41
+Productivity,Startups,46,163
+Productivity,Product Launch,46,163
+AI/ML Tools,Real Estate,50,61
+AI/ML Tools,Photography,50,61
+Mobile Apps,Accessibility,48,11
+Mobile Apps,User Experience,48,11
+Content Creation,Publishing,46,13
+Content Creation,Independent Creators,46,13
+Security/Privacy,Education,46,4
+Security/Privacy,Social/Communication,46,4
+Productivity,Task Management,47,23
+Productivity,Habit Tracking,47,23
+Productivity,Feedback,44,125
+Productivity,Product Launch,44,125
+AI/ML Tools,Home Automation,46,20
+AI/ML Tools,Smart Devices,46,20
+Entertainment,Mobile Apps,45,61
+Entertainment,AI/ML Tools,45,61
+Productivity,Web Development,43,20
+Productivity,Design Tools,43,20
+Content Creation,AI/ML Tools,44,119
+Content Creation,Productivity,44,119
+Developer Tools,Automation,41,27
+Developer Tools,Productivity,41,27
+Business Tools,Marketing,60,20
+Business Tools,Startup Promotion,60,20
+Entertainment,Music,43,85
+Entertainment,Relaxation,43,85
+Content Creation,Social Media,43,14
+Content Creation,Video Editing,43,14
+Content Creation,Graphic Design,42,35
+Content Creation,Social Media,42,35
+Web Development,Freelancing,41,43
+Web Development,Client Acquisition,41,43
+Health & Fitness,Mindfulness,41,45
+Health & Fitness,Productivity,41,45
+AI/ML Tools,Photo Restoration,41,14
+AI/ML Tools,Video Conversion,41,14
+Business Tools,AI/ML Tools,41,26
+Business Tools,Web Development,41,26
+AI/ML Tools,Model Comparison,43,18
+AI/ML Tools,Generative AI,43,18
+Mobile Apps,Design,40,27
+Mobile Apps,User Experience,40,27
+Security/Privacy,Digital Lockbox,40,83
+Security/Privacy,Data Protection,40,83
+Productivity,AI/ML Tools,39,53
+Productivity,Automation,39,53
+Education,AI/ML Tools,42,22
+Education,Productivity,42,22
+Productivity,Image Editing,40,18
+Productivity,Desktop Tools,40,18
+Games,Casual Gaming,38,42
+Games,Online Leaderboards,38,42
+Productivity,Self-Improvement,39,6
+Productivity,Mobile Apps,39,6
+Games,Mobile Apps,40,11
+Games,Entertainment,40,11
+Productivity,Startups,38,153
+Productivity,Product Launch,38,153
+Productivity,Browser Extensions,39,18
+Productivity,Content Filtering,39,18
+Developer Tools,Open Source,39,6
+Developer Tools,Integrated Development Environment,39,6
+Browser Extensions,Productivity,38,131
+Browser Extensions,Web Development,38,131
+Browser Extensions,E-commerce,38,39
+Browser Extensions,Finance,38,39
+Mobile Apps,Marketing,38,18
+Mobile Apps,Monetization,38,18
+Business Tools,SEO,37,38
+Business Tools,Marketing,37,38
+Mobile Apps,Viral Growth,39,5
+Mobile Apps,User Acquisition,39,5
+Browser Extensions,Web Development,39,28
+Browser Extensions,Entertainment,39,28
+Security/Privacy,Image Processing,37,15
+Security/Privacy,Anonymization,37,15
+Productivity,Project Management,39,94
+Productivity,Remote Collaboration,39,94
+Productivity,Education,37,17
+Productivity,Lifestyle,37,17
+Productivity,Mobile Apps,35,44
+Productivity,Browser Extensions,35,44
+Productivity,Startups,36,170
+Productivity,Creators,36,170
+Education,Security/Privacy,41,5
+Education,Social/Communication,41,5
+Social/Communication,Community Management,37,36
+Social/Communication,Brand Monitoring,37,36
+Entertainment,Web Discovery,36,14
+Entertainment,Nostalgia,36,14
+Education,Sports Training,36,19
+Education,Interactive Learning,36,19
+Content Creation,Design Tools,37,4
+Content Creation,Social Media,37,4
+Mobile Apps,Content Discovery,34,7
+Mobile Apps,User Engagement,34,7
+Business Tools,Motivation,36,45
+Business Tools,Entrepreneurship,36,45
+Education,AI/ML Tools,35,20
+Education,Content Creation,35,20
+Other,SEO Optimization,37,215
+Other,Product Page Analysis,37,215
+Browser Extensions,Productivity,35,2
+Browser Extensions,Efficiency,35,2
+Other,Flight Search,33,44
+Other,Digital Nomad Lifestyle,33,44
+Web Development,Responsive Design,35,4
+Web Development,User Experience,35,4
+Productivity,Note-taking,34,26
+Productivity,Visual Organization,34,26
+Mobile Apps,User Engagement,35,37
+Mobile Apps,App Development,35,37
+Business Tools,Social/Communication,35,6
+Business Tools,Automation,35,6
+Education,Online Learning,33,126
+Education,Community Building,33,126
+Web Development,Design Tools,31,5
+Web Development,Productivity,31,5
+Social/Communication,Confidence Building,33,6
+Social/Communication,AI Feedback,33,6
+Productivity,Accountability,34,45
+Productivity,Goal Tracking,34,45
+Entertainment,Desktop Customization,33,7
+Entertainment,User Experience,33,7
+Entertainment,Social/Communication,30,31
+Entertainment,Content Creation,30,31
+Productivity,Social/Communication,31,137
+Productivity,Automation,31,137
+Social/Communication,Content Creation,35,6
+Social/Communication,Productivity,35,6
+Content Creation,AI/ML Tools,32,12
+Content Creation,Entertainment,32,12
+Business Tools,Automation,32,6
+Business Tools,Client Acquisition,32,6
+E-commerce,Subscription Services,32,7
+E-commerce,Entrepreneurship,32,7
+Developer Tools,Web Development,31,7
+Developer Tools,Productivity,31,7
+AI/ML Tools,Advertising,32,7
+AI/ML Tools,Productivity,32,7
+Productivity,Web Development,31,23
+Productivity,Browser Extensions,31,23
+Browser Extensions,Productivity,30,10
+Browser Extensions,AI/ML Tools,30,10
+Health & Fitness,Mobile Apps,29,6
+Health & Fitness,Education,29,6
+Productivity,Note-taking,30,18
+Productivity,Organization,30,18
+E-commerce,Payment Processing,29,1
+E-commerce,Profitability,29,1
+Web Development,Portfolio Websites,31,10
+Web Development,User Experience,31,10
+Social/Communication,Open Source,30,8
+Social/Communication,Community Building,30,8
+Productivity,Habit Tracking,31,125
+Productivity,Mindful Growth,31,125
+Finance,Budgeting,27,89
+Finance,Expense Tracking,27,89
+Web Development,Developer Tools,30,11
+Web Development,Automation,30,11
+Productivity,Presentation Tools,29,1
+Productivity,Automation,29,1
+Social/Communication,Travel Planning,30,40
+Social/Communication,Expense Management,30,40
+Social/Communication,Online Communities,28,4
+Social/Communication,User Experience,28,4
+Automation,Workflow Automation,29,132
+Automation,Feedback Collection,29,132
+Productivity,Job Applications,29,22
+Productivity,AI/ML Tools,29,22
+Health & Fitness,Mobile Apps,29,25
+Health & Fitness,Lifestyle,29,25
+Mobile Apps,Productivity,27,13
+Mobile Apps,Health & Fitness,27,13
+Social/Communication,Reddit Engagement,27,4
+Social/Communication,Content Scheduling,27,4

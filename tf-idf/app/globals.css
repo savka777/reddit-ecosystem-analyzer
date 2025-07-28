@@ -24,3 +24,39 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.theme-navigator::-webkit-scrollbar {
+  width: 6px;
+}
+
+.theme-navigator::-webkit-scrollbar-track {
+  background: #1f2937; /* gray-800 */
+  border-radius: 3px;
+}
+
+.theme-navigator::-webkit-scrollbar-thumb {
+  background: #4b5563; /* gray-600 */
+  border-radius: 3px;
+}
+
+.theme-navigator::-webkit-scrollbar-thumb:hover {
+  background: #6b7280; /* gray-500 */
+}
+
+.problems-panel-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.problems-panel-content::-webkit-scrollbar-track {
+  background: rgba(31, 41, 55, 0.5);
+  border-radius: 4px;
+}
+
+.problems-panel-content::-webkit-scrollbar-thumb {
+  background: rgba(75, 85, 99, 0.8);
+  border-radius: 4px;
+}
+
+.problems-panel-content::-webkit-scrollbar-thumb:hover {
+  background: rgba(107, 114, 128, 0.9);
+}

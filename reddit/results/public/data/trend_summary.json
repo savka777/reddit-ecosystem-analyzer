@@ -1,0 +1,734 @@
+{
+  "summary_stats": {
+    "total_posts": 292,
+    "unique_main_themes": 20,
+    "unique_sub_themes": 268,
+    "avg_score_all_posts": 191.44
+  },
+  "main_themes_ranking": [
+    {
+      "main_theme": "Productivity",
+      "post_count": 54,
+      "total_score": 9019,
+      "avg_score": 167.02,
+      "percentage": 18.49,
+      "top_sub_themes": [
+        {
+          "name": "Time Management",
+          "count": 9
+        },
+        {
+          "name": "Automation",
+          "count": 7
+        },
+        {
+          "name": "AI/ML Tools",
+          "count": 7
+        },
+        {
+          "name": "Mobile Apps",
+          "count": 6
+        },
+        {
+          "name": "Browser Extensions",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "main_theme": "Mobile Apps",
+      "post_count": 30,
+      "total_score": 7007,
+      "avg_score": 233.57,
+      "percentage": 10.27,
+      "top_sub_themes": [
+        {
+          "name": "Productivity",
+          "count": 8
+        },
+        {
+          "name": "User Experience",
+          "count": 4
+        },
+        {
+          "name": "User Engagement",
+          "count": 4
+        },
+        {
+          "name": "Lifestyle",
+          "count": 3
+        },
+        {
+          "name": "App Development",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "main_theme": "Social/Communication",
+      "post_count": 26,
+      "total_score": 7978,
+      "avg_score": 306.85,
+      "percentage": 8.9,
+      "top_sub_themes": [
+        {
+          "name": "Online Communities",
+          "count": 4
+        },
+        {
+          "name": "Community Building",
+          "count": 4
+        },
+        {
+          "name": "Content Creation",
+          "count": 2
+        },
+        {
+          "name": "Community Management",
+          "count": 2
+        },
+        {
+          "name": "User Engagement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "main_theme": "Content Creation",
+      "post_count": 19,
+      "total_score": 1959,
+      "avg_score": 103.11,
+      "percentage": 6.51,
+      "top_sub_themes": [
+        {
+          "name": "AI/ML Tools",
+          "count": 6
+        },
+        {
+          "name": "Social Media",
+          "count": 4
+        },
+        {
+          "name": "Design Tools",
+          "count": 2
+        },
+        {
+          "name": "Video Editing",
+          "count": 2
+        },
+        {
+          "name": "Productivity",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "main_theme": "Web Development",
+      "post_count": 18,
+      "total_score": 2493,
+      "avg_score": 138.5,
+      "percentage": 6.16,
+      "top_sub_themes": [
+        {
+          "name": "Developer Tools",
+          "count": 3
+        },
+        {
+          "name": "Website Builders",
+          "count": 2
+        },
+        {
+          "name": "Responsive Design",
+          "count": 2
+        },
+        {
+          "name": "Productivity",
+          "count": 2
+        },
+        {
+          "name": "Automation",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "main_theme": "Health & Fitness",
+      "post_count": 14,
+      "total_score": 1874,
+      "avg_score": 133.86,
+      "percentage": 4.79,
+      "top_sub_themes": [
+        {
+          "name": "Mobile Apps",
+          "count": 6
+        },
+        {
+          "name": "Productivity",
+          "count": 2
+        },
+        {
+          "name": "AI/ML Tools",
+          "count": 2
+        },
+        {
+          "name": "Mental Health",
+          "count": 2
+        },
+        {
+          "name": "Accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "E-commerce",
+      "post_count": 14,
+      "total_score": 1640,
+      "avg_score": 117.14,
+      "percentage": 4.79,
+      "top_sub_themes": [
+        {
+          "name": "Web Development",
+          "count": 2
+        },
+        {
+          "name": "Job Market",
+          "count": 2
+        },
+        {
+          "name": "Affiliate Marketing",
+          "count": 1
+        },
+        {
+          "name": "Remote Work",
+          "count": 1
+        },
+        {
+          "name": "Sustainability",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Business Tools",
+      "post_count": 13,
+      "total_score": 2711,
+      "avg_score": 208.54,
+      "percentage": 4.45,
+      "top_sub_themes": [
+        {
+          "name": "Marketing",
+          "count": 4
+        },
+        {
+          "name": "Entrepreneurship",
+          "count": 2
+        },
+        {
+          "name": "Web Development",
+          "count": 2
+        },
+        {
+          "name": "Automation",
+          "count": 2
+        },
+        {
+          "name": "Product Launch",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Entertainment",
+      "post_count": 13,
+      "total_score": 1367,
+      "avg_score": 105.15,
+      "percentage": 4.45,
+      "top_sub_themes": [
+        {
+          "name": "AI/ML Tools",
+          "count": 3
+        },
+        {
+          "name": "Music",
+          "count": 3
+        },
+        {
+          "name": "Event Management",
+          "count": 2
+        },
+        {
+          "name": "Desktop Customization",
+          "count": 2
+        },
+        {
+          "name": "Automation",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "AI/ML Tools",
+      "post_count": 13,
+      "total_score": 1198,
+      "avg_score": 92.15,
+      "percentage": 4.45,
+      "top_sub_themes": [
+        {
+          "name": "Productivity",
+          "count": 2
+        },
+        {
+          "name": "Startup Mistakes",
+          "count": 1
+        },
+        {
+          "name": "Entrepreneurship",
+          "count": 1
+        },
+        {
+          "name": "Social/Communication",
+          "count": 1
+        },
+        {
+          "name": "Entertainment",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Education",
+      "post_count": 12,
+      "total_score": 4798,
+      "avg_score": 399.83,
+      "percentage": 4.11,
+      "top_sub_themes": [
+        {
+          "name": "Productivity",
+          "count": 3
+        },
+        {
+          "name": "AI/ML Tools",
+          "count": 3
+        },
+        {
+          "name": "Browser Extensions",
+          "count": 2
+        },
+        {
+          "name": "Interactive Learning",
+          "count": 2
+        },
+        {
+          "name": "Online Learning",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "main_theme": "Developer Tools",
+      "post_count": 11,
+      "total_score": 1046,
+      "avg_score": 95.09,
+      "percentage": 3.77,
+      "top_sub_themes": [
+        {
+          "name": "Productivity",
+          "count": 6
+        },
+        {
+          "name": "Open Source",
+          "count": 3
+        },
+        {
+          "name": "Web Development",
+          "count": 2
+        },
+        {
+          "name": "Time Management",
+          "count": 2
+        },
+        {
+          "name": "Licensing",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Security/Privacy",
+      "post_count": 10,
+      "total_score": 1390,
+      "avg_score": 139.0,
+      "percentage": 3.42,
+      "top_sub_themes": [
+        {
+          "name": "Social/Communication",
+          "count": 2
+        },
+        {
+          "name": "Home Security",
+          "count": 2
+        },
+        {
+          "name": "Mobile Apps",
+          "count": 1
+        },
+        {
+          "name": "Authentication",
+          "count": 1
+        },
+        {
+          "name": "AI/ML Tools",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Browser Extensions",
+      "post_count": 10,
+      "total_score": 858,
+      "avg_score": 85.8,
+      "percentage": 3.42,
+      "top_sub_themes": [
+        {
+          "name": "Productivity",
+          "count": 7
+        },
+        {
+          "name": "E-commerce",
+          "count": 2
+        },
+        {
+          "name": "Content Creation",
+          "count": 2
+        },
+        {
+          "name": "AI/ML Tools",
+          "count": 2
+        },
+        {
+          "name": "Entertainment",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "main_theme": "Games",
+      "post_count": 9,
+      "total_score": 2403,
+      "avg_score": 267.0,
+      "percentage": 3.08,
+      "top_sub_themes": [
+        {
+          "name": "Mobile Apps",
+          "count": 3
+        },
+        {
+          "name": "Online Gaming",
+          "count": 2
+        },
+        {
+          "name": "Online Communities",
+          "count": 1
+        },
+        {
+          "name": "Creative Platforms",
+          "count": 1
+        },
+        {
+          "name": "Educational Games",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Finance",
+      "post_count": 8,
+      "total_score": 1369,
+      "avg_score": 171.12,
+      "percentage": 2.74,
+      "top_sub_themes": [
+        {
+          "name": "Personal Finance",
+          "count": 3
+        },
+        {
+          "name": "Mobile Apps",
+          "count": 2
+        },
+        {
+          "name": "Credit Card Management",
+          "count": 1
+        },
+        {
+          "name": "Travel",
+          "count": 1
+        },
+        {
+          "name": "Currency Exchange",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Data/Analytics",
+      "post_count": 7,
+      "total_score": 3531,
+      "avg_score": 504.43,
+      "percentage": 2.4,
+      "top_sub_themes": [
+        {
+          "name": "Entertainment",
+          "count": 1
+        },
+        {
+          "name": "Business Tools",
+          "count": 1
+        },
+        {
+          "name": "Real-time Monitoring",
+          "count": 1
+        },
+        {
+          "name": "Open Source Intelligence (OSINT)",
+          "count": 1
+        },
+        {
+          "name": "Developer Tools",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Other",
+      "post_count": 5,
+      "total_score": 448,
+      "avg_score": 89.6,
+      "percentage": 1.71,
+      "top_sub_themes": [
+        {
+          "name": "AI/ML Tools",
+          "count": 2
+        },
+        {
+          "name": "Photography",
+          "count": 1
+        },
+        {
+          "name": "Productivity",
+          "count": 1
+        },
+        {
+          "name": "Influencer Marketing",
+          "count": 1
+        },
+        {
+          "name": "App Promotion",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Lifestyle",
+      "post_count": 3,
+      "total_score": 2516,
+      "avg_score": 838.67,
+      "percentage": 1.03,
+      "top_sub_themes": [
+        {
+          "name": "3D Printing",
+          "count": 1
+        },
+        {
+          "name": "Personalization",
+          "count": 1
+        },
+        {
+          "name": "Cooking",
+          "count": 1
+        },
+        {
+          "name": "User Experience",
+          "count": 1
+        },
+        {
+          "name": "Home Improvement",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "main_theme": "Automation",
+      "post_count": 3,
+      "total_score": 296,
+      "avg_score": 98.67,
+      "percentage": 1.03,
+      "top_sub_themes": [
+        {
+          "name": "SaaS Opportunities",
+          "count": 1
+        },
+        {
+          "name": "Negative Review Analysis",
+          "count": 1
+        },
+        {
+          "name": "Job Search",
+          "count": 1
+        },
+        {
+          "name": "AI/ML Tools",
+          "count": 1
+        },
+        {
+          "name": "Workflow Automation",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "top_sub_themes_global": [
+    {
+      "name": "Productivity",
+      "count": 37
+    },
+    {
+      "name": "AI/ML Tools",
+      "count": 34
+    },
+    {
+      "name": "Mobile Apps",
+      "count": 22
+    },
+    {
+      "name": "Automation",
+      "count": 15
+    },
+    {
+      "name": "Web Development",
+      "count": 15
+    },
+    {
+      "name": "Time Management",
+      "count": 11
+    },
+    {
+      "name": "User Experience",
+      "count": 11
+    },
+    {
+      "name": "Social/Communication",
+      "count": 10
+    },
+    {
+      "name": "Content Creation",
+      "count": 9
+    },
+    {
+      "name": "Marketing",
+      "count": 9
+    },
+    {
+      "name": "Browser Extensions",
+      "count": 8
+    },
+    {
+      "name": "Entertainment",
+      "count": 8
+    },
+    {
+      "name": "Developer Tools",
+      "count": 8
+    },
+    {
+      "name": "Lifestyle",
+      "count": 7
+    },
+    {
+      "name": "Entrepreneurship",
+      "count": 6
+    },
+    {
+      "name": "Security/Privacy",
+      "count": 6
+    },
+    {
+      "name": "User Engagement",
+      "count": 6
+    },
+    {
+      "name": "Community Building",
+      "count": 6
+    },
+    {
+      "name": "Design Tools",
+      "count": 6
+    },
+    {
+      "name": "Online Communities",
+      "count": 5
+    }
+  ],
+  "top_trend_indicators": [
+    {
+      "indicator": "habit tracking",
+      "count": 10
+    },
+    {
+      "indicator": "open source",
+      "count": 6
+    },
+    {
+      "indicator": "open-source",
+      "count": 5
+    },
+    {
+      "indicator": "user acquisition",
+      "count": 5
+    },
+    {
+      "indicator": "gamification",
+      "count": 5
+    },
+    {
+      "indicator": "developer productivity",
+      "count": 5
+    },
+    {
+      "indicator": "personalization",
+      "count": 4
+    },
+    {
+      "indicator": "AI-generated content",
+      "count": 4
+    },
+    {
+      "indicator": "remote work",
+      "count": 4
+    },
+    {
+      "indicator": "Next.js",
+      "count": 4
+    },
+    {
+      "indicator": "entrepreneurship",
+      "count": 3
+    },
+    {
+      "indicator": "web development",
+      "count": 3
+    },
+    {
+      "indicator": "productivity tools",
+      "count": 3
+    },
+    {
+      "indicator": "privacy",
+      "count": 3
+    },
+    {
+      "indicator": "AI assistant",
+      "count": 3
+    }
+  ]
+}
