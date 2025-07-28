@@ -2,6 +2,8 @@
 
 An interactive 3D force graph that analyzes r/SideProject to visualize what the community is building, the problems they're solving, and emerging trends in the side project ecosystem.
 
+![Interactive Graph](./reddit-demo.png)
+
 ## What This Does
 
 - **Scrapes** r/SideProject posts and comments
