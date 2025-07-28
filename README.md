@@ -3,6 +3,7 @@
 An interactive 3D force graph that analyzes r/SideProject to visualize what the community is building, the problems they're solving, and emerging trends in the side project ecosystem.
 
 ![Interactive Graph](./reddit-demo.png)
+**Data Freshness:** This analysis reflects r/SideProject activity from June 21 - July 21, 2025 (scraped July 21, 2025)
 
 ## What This Does
 
