@@ -3,6 +3,7 @@
 An interactive 3D force graph that analyzes r/SideProject to visualize what the community is building, the problems they're solving, and emerging trends in the side project ecosystem.
 
 ![Interactive Graph](./reddit-demo.png)
+**Data Freshness:** This analysis reflects r/SideProject activity from June 21 - July 21, 2025 (scraped July 21, 2025)
 
 ## What This Does
 
@@ -49,7 +50,7 @@ reddit-trend-analysis/
 └── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -195,6 +196,6 @@ This project is licensed under the MIT License
 
 ## Issues & Support
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/savka777/reddit-ecosystem-analyzerissues)
+Found a bug or have a suggestion? [Open an issue](https://github.com/savka777/reddit-ecosystem-analyzer/issues)
 
 ---
