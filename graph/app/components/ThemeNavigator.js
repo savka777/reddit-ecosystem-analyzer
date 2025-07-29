@@ -59,22 +59,19 @@ const ThemeNavigator = ({ graphData, onSubThemeClick, isOpen = true, onToggle })
 
   return (
     <>
-      {/* Toggle Button - Always visible */}
       <button
         onClick={onToggle}
         className="fixed right-6 top-2 z-50 bg-white hover:bg-gray-50 shadow-lg rounded-md p-2 border border-gray-200 transition-colors"
         title={isOpen ? 'Hide Theme Explorer' : 'Show Theme Explorer'}
       >
-        {isOpen ? <X size={16} className="text-gray-600" /> : <Menu size={16} className="text-gray-600" />}
+        {isOpen ? <X size={14} className="text-gray-600" /> : <Menu size={16} className="text-gray-600" />}
       </button>
 
-      {/* Theme Navigator Panel */}
       <div 
-        className={`fixed right-4 top-16 bottom-4 w-80 bg-white shadow-2xl rounded-lg border border-gray-200 overflow-hidden z-40 flex flex-col transition-transform duration-300 ease-in-out ${
-          isOpen ? 'translate-x-0' : 'translate-x-full'
+        className={`fixed right-4 top-12 bottom-4 w-80 bg-white shadow-2xl rounded-lg border border-gray-200 overflow-hidden z-40 flex flex-col transition-transform duration-300 ease-in-out ${
+          isOpen ? 'translate-x-0' : 'translate-x-full hidden'
         }`}
       >
-        {/* Header */}
         <div className="bg-white text-gray-800 p-4 border-b border-gray-200 flex-shrink-0">
           <div className="flex items-center space-x-2">
             <Layers size={18} className="text-blue-600" />
@@ -87,6 +84,7 @@ const ThemeNavigator = ({ graphData, onSubThemeClick, isOpen = true, onToggle })
         <div className="overflow-y-auto flex-1 theme-navigator">
           {sortedThemes.map(([themeName, themeData]) => (
             <div key={themeName} className="border-b border-gray-100 last:border-b-0">
+
               {/* Main Theme */}
               <button
                 onClick={() => toggleTheme(themeName)}
@@ -159,8 +157,7 @@ const ThemeNavigator = ({ graphData, onSubThemeClick, isOpen = true, onToggle })
             </div>
           ))}
         </div>
-
-        {/* Footer Stats */}
+        
         <div className="bg-gray-50 px-4 py-2 border-t border-gray-200 flex-shrink-0">
           <div className="flex justify-between text-xs text-gray-600">
             <span>{sortedThemes.length} main themes</span>
