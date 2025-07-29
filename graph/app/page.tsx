@@ -9,6 +9,7 @@ import { hierarchicalGraphData } from './data/hierarchical_graph_data.js';
 export default function GraphPage() {
   const [selectedNode, setSelectedNode] = useState(null);
   const [isPanelOpen, setIsPanelOpen] = useState(false);
+  const [isThemeNavigatorOpen, setIsThemeNavigatorOpen] = useState(true)
 
   const handleNodeClick = (node : any) => {
     if (node.node_type === 'sub_theme' && node.problems_solved) {
@@ -17,7 +18,6 @@ export default function GraphPage() {
     }
   };
 
-  // Handle clicks from the theme navigator
   const handleNavigatorSubThemeClick = (subTheme : any) => {
     setSelectedNode(subTheme);
     setIsPanelOpen(true);
@@ -43,6 +43,8 @@ export default function GraphPage() {
         <ThemeNavigator 
           graphData={hierarchicalGraphData} 
           onSubThemeClick={handleNavigatorSubThemeClick}
+          isOpen={isThemeNavigatorOpen}                   
+          onToggle={() => setIsThemeNavigatorOpen(!isThemeNavigatorOpen)}
         />
       </div>
     </div>
